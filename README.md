@@ -60,6 +60,6 @@ Currently, I’m deepening my skills in clustering, NLP, and modular Python work
 ---
 
 ## 📄 Resume & Contact
-📄 [Resume](./Kahdijah_Lemaine_Resume.pdf)
+📄 [Resume](.\Kahdijah_Lemaine_Resume.pdf)           
 🔗 [LinkedIn](https://www.linkedin.com/in/kahdijah-lemaine-89639572)  
 📧 klemaine@gmail.com
